@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p along="center">
+<a href="https://www.linkedin.com/in/radoslav-takvoryan-4807b01b8/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+<a href="https://www.facebook.com/rado0o0o0"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+<a href="https://www.instagram.com/radoo0o/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+</p>
 ![trophy](https://github-profile-trophy.vercel.app/?username=Radoslav22&theme=nord&title=Commit)
  <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Radoslav22&layout=compact&theme=algolia&exclude=.vim)](https://github.com/anuraghazra/github-readme-stats) <br>
