@@ -1,4 +1,4 @@
-![Github Banner](https://github.com/Radoslav22/Radoslav22/blob/main/assets/github-header-image.png)![trophy](https://github-profile-trophy.vercel.app/?username=Radoslav22&theme=nord&title=Commit)
+![Github Banner](https://github.com/Radoslav22/Radoslav22/blob/main/assets/github-header-image.png)
 
 <!--
 **Radoslav22/Radoslav22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+ 
+Young, energetic, and adaptable graduate who is passionate about translating innovative ideas into practical solutions. Aspiring Software/Web Developer with a strong foundation in programming and web technologies, seeking to leverage academic excellence and a self-motivated mindset to contribute effectively to real-world projects. Dedicated self-learner who thrives on challenges and continuously seeks to improve skills with new technologies. Is detail-oriented and committed to high-quality work, ready to work and collaborate within a dynamic team and contribute positively to the development of cutting-edge software.
+</div>
+
 <div align="center">
  
 <a href="https://www.linkedin.com/in/radoslav-takvoryan-4807b01b8/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
