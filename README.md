@@ -16,20 +16,18 @@ Here are some ideas to get you started:
 -->
 <div align="center">
  
-Young, energetic, and adaptable graduate who is passionate about translating innovative ideas into practical solutions. Aspiring Software/Web Developer with a strong foundation in programming and web technologies, seeking to leverage academic excellence and a self-motivated mindset to contribute effectively to real-world projects. Dedicated self-learner who thrives on challenges and continuously seeks to improve skills with new technologies. Is detail-oriented and committed to high-quality work, ready to work and collaborate within a dynamic team and contribute positively to the development of cutting-edge software.
-</div>
-
-<div align="center">
- 
 <a href="https://www.linkedin.com/in/radoslav-takvoryan-4807b01b8/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 <a href="https://www.facebook.com/rado0o0o0"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 <a href="https://www.instagram.com/radoo0o/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+
 </div>
 <div align="center">
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Radoslav22&layout=compact&theme=algolia&exclude=.vim)](https://github.com/anuraghazra/github-readme-stats) <br>
- 
+Young, energetic, and adaptable graduate who is passionate about translating innovative ideas into practical solutions. Aspiring Software/Web Developer with a strong foundation in programming and web technologies, seeking to leverage academic excellence and a self-motivated mindset to contribute effectively to real-world projects. Dedicated self-learner who thrives on challenges and continuously seeks to improve skills with new technologies. Is detail-oriented and committed to high-quality work, ready to work and collaborate within a dynamic team and contribute positively to the development of cutting-edge software.
 </div>
+
+
+
 
 <div align="center">
 <h3>Programming Languages</h3>
@@ -56,9 +54,12 @@ Young, energetic, and adaptable graduate who is passionate about translating inn
 <br>
 <div align="center">
 <h3> GitHub Statistics </h3>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Radoslav22&layout=compact&theme=algolia&exclude=.vim)](https://github.com/anuraghazra/github-readme-stats) <br>
  
 ![Rad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Radoslav22&theme=algolia&show_icons=true)
 
 </div>
+
 
 
