@@ -1,4 +1,4 @@
-### Hi there 👋
+![Github Banner](https://github.com/Radoslav22/Radoslav22/master/assets/Git%20banner.gif)
 
 <!--
 **Radoslav22/Radoslav22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
