@@ -1,4 +1,4 @@
-![Github Banner](https://github.com/Radoslav22/Radoslav22/blob/main/assets/github-header-image.png)
+![Github Banner](https://github.com/Radoslav22/Radoslav22/blob/main/assets/github-header-image.png)![trophy](https://github-profile-trophy.vercel.app/?username=Radoslav22&theme=nord&title=Commit)
 
 <!--
 **Radoslav22/Radoslav22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,11 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p aling="center">
+<div align="center">
+ 
 <a href="https://www.linkedin.com/in/radoslav-takvoryan-4807b01b8/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 <a href="https://www.facebook.com/rado0o0o0"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 <a href="https://www.instagram.com/radoo0o/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-</p>
+</div>
 <div align="center">
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Radoslav22&layout=compact&theme=algolia&exclude=.vim)](https://github.com/anuraghazra/github-readme-stats) <br>
@@ -26,8 +27,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-Programming Languages
-<br>
+<h3>Programming Languages</h3>
  
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -41,21 +41,19 @@ Programming Languages
 
 
 <div align="center">
-Databases
-<br>
+<h3>Databases</h3>
  
 ![MongoDB](	https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
- </div>
+
+</div>
 <br>
 <div align="center">
-  
-![trophy](https://github-profile-trophy.vercel.app/?username=Radoslav22&theme=nord&title=Commit)
-</div>
-<div align="center">
-
+<h3> GitHub Statistics </h3>
+ 
 ![Rad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Radoslav22&theme=algolia&show_icons=true)
+
 </div>
 
 
